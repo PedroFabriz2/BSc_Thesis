@@ -1,3 +1,6 @@
 # BSc Thesis Experiments
-# BSc Thesis Experiments
-# BSc_Thesis
+:us: 
+Control Architecture of a Robotic Knee Prosthesis based on myoelectric signals 
+
+:brazil:
+Arquitetura de controle de uma prótese robótica de joelho baseada em sinais mioelétricos
